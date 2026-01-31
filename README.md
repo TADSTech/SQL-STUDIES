@@ -150,15 +150,6 @@ Performance Optimization
 
 ---
 
-## Target Roles
-
-- Data Analyst
-- Junior Data Scientist
-- Business Intelligence Analyst
-- Analytics Engineer
-
----
-
 ## About
 
 Built to demonstrate SQL proficiency with real-world patterns used in production environments. Each case study reflects actual problems encountered in data analytics roles.
